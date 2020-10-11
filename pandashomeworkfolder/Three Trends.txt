@@ -1,0 +1,6 @@
+# pandas-challenge
+
+THREE OBSERVABLE TRENDS BASED ON THE DATA:
+1)	There are many more male players than female players (652 to 113)
+2)	Even though there are more males, females spend on average $0.40 more than men (which comes out to 8.94% more per person).
+3)	Almost everyone (98.08%) of people who signed up notified the company of their gender
